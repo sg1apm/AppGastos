@@ -21,3 +21,18 @@ Esta app web se realizó a raíz del artículo [No sé programar y he creado una
    ```bash
    git clone https://github.com/sg1apm/AppGastos.git
 
+## 📁 Estructura del proyecto
+
+AppGastos/
+├── index.html      # Página principal
+├── style.css       # Estilos
+├── app.js          # Lógica de la app
+└── images/         # Capturas de pantalla y otros recursos visuales
+
+## 🔐 Seguridad y privacidad
+
+Esta aplicación funciona completamente en local. Tus datos no salen de tu dispositivo.
+
+## 📄 Licencia
+
+Este proyecto se distribuye bajo la licencia MIT. Consulta el archivo LICENSE para más información.
