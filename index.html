@@ -1,0 +1,26 @@
+TYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Calculadora de Gastos</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>Calculadora de Gastos</h1>
+
+  <label for="desc">Descripción:</label>
+  <input id="desc" placeholder="Descripción del gasto" />
+
+  <label for="amount">Cantidad (€):</label>
+  <input id="amount" type="number" placeholder="Cantidad (€)" />
+
+  <button id="addExpenseBtn">Añadir gasto</button>
+
+  <h2>Total: €<span id="total">0.00</span></h2>
+
+  <ul id="expenses"></ul>
+
+  <script src="app.js"></script>
+</body>
+</html>
