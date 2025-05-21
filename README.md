@@ -2,6 +2,8 @@
 
 Aplicación web sencilla para llevar el control de gastos personales.
 
+Esta app web se realizó a raíz del artículo [No sé programar y he creado una app en 10 minutos usando ChatGPT](https://www.applesfera.com/tutoriales/no-se-programar-he-creado-app-10-minutos-usando-chatgpt-iphone-paso-a-paso-para-principiantes), y fue desarrollada principalmente con la ayuda de ChatGPT y, en menor medida, Gemini.
+
 ## ✨ Características
 
 - Añadir nombre y cantidad de cada gasto.
@@ -18,3 +20,4 @@ Aplicación web sencilla para llevar el control de gastos personales.
 1. Descarga o clona este repositorio:
    ```bash
    git clone https://github.com/sg1apm/AppGastos.git
+
